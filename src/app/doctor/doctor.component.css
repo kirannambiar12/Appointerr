@@ -1,0 +1,42 @@
+
+.card-footer{
+    background-color: cornflowerblue;
+    color: azure; 
+}
+
+.card-footer:hover{
+    text-shadow: 1px 1px #FFFFFF;
+    background-color: #A3DD47;
+}
+
+a{
+    text-decoration-line: none;
+    cursor: pointer;
+}
+
+
+
+.card-body{
+    background-color: white;
+}
+
+.card-header{
+    background-color: #C5CBC4;
+}
+.card3, .card2, .card1{
+    background-color: #E3E9F5;
+    border-width: medium;
+    border-style: double;
+}
+
+.date, .time{
+    border-radius: 5px;
+    
+}
+
+
+
+.remlogo{
+    margin-left: 45%;
+}
+
