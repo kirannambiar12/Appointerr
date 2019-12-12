@@ -1,6 +1,7 @@
 {
   "name": "tartl",
   "version": "0.0.0",
+  "main": "server.js",
   "scripts": {
     "ng": "ng",
     "build": "ng build",
